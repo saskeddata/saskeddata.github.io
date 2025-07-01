@@ -1,0 +1,226 @@
+{
+  "1985": {
+    "rural": {
+      "municipal_taxes": 93287998,
+      "school_taxes": 116704702
+    },
+    "urban": {
+      "municipal_taxes": 180768205,
+      "school_taxes": 208399516
+    },
+    "northern": {
+      "municipal_taxes": 1912393,
+      "school_taxes": 1676393
+    }
+  },
+  "1986": {
+    "rural": {
+      "municipal_taxes": 97747396,
+      "school_taxes": 122826310
+    },
+    "urban": {
+      "municipal_taxes": 198517923,
+      "school_taxes": 220156737
+    },
+    "northern": {
+      "municipal_taxes": 1994576,
+      "school_taxes": 2282500
+    }
+  },
+  "1987": {
+    "rural": {
+      "municipal_taxes": 98084653,
+      "school_taxes": 127175608
+    },
+    "urban": {
+      "municipal_taxes": 208694000,
+      "school_taxes": 228689960
+    },
+    "northern": {
+      "municipal_taxes": 2251349,
+      "school_taxes": 2420346
+    }
+  },
+  "1988": {
+    "rural": {
+      "municipal_taxes": 100354430,
+      "school_taxes": 133691324
+    },
+    "urban": {
+      "municipal_taxes": 216800261,
+      "school_taxes": 242634924
+    },
+    "northern": {
+      "municipal_taxes": 2393693,
+      "school_taxes": 2894823
+    }
+  },
+  "1989": {
+    "rural": {
+      "municipal_taxes": 101562472,
+      "school_taxes": 142819999
+    },
+    "urban": {
+      "municipal_taxes": 226924741,
+      "school_taxes": 259537275
+    },
+    "northern": {
+      "municipal_taxes": 2629406,
+      "school_taxes": 3076549
+    }
+  },
+  "1990": {
+    "rural": {
+      "municipal_taxes": 102808664,
+      "school_taxes": 149849810
+    },
+    "urban": {
+      "municipal_taxes": 237040561,
+      "school_taxes": 274969508
+    },
+    "northern": {
+      "municipal_taxes": 2789367,
+      "school_taxes": 3270814
+    }
+  },
+  "1991": {
+    "rural": {
+      "municipal_taxes": 104543136,
+      "school_taxes": 156895100
+    },
+    "urban": {
+      "municipal_taxes": 246713564,
+      "school_taxes": 288907928
+    },
+    "northern": {
+      "municipal_taxes": 3040184,
+      "school_taxes": 3660852
+    }
+  },
+  "1992": {
+    "rural": {
+      "municipal_taxes": 105338865,
+      "school_taxes": 161620833
+    },
+    "urban": {
+      "municipal_taxes": 251097526,
+      "school_taxes": 295828389
+    },
+    "northern": {
+      "municipal_taxes": 3606736,
+      "school_taxes": 3740334
+    }
+  },
+  "1993": {
+    "rural": {
+      "municipal_taxes": 106915960,
+      "school_taxes": 166253961
+    },
+    "urban": {
+      "municipal_taxes": 255673282,
+      "school_taxes": 302773658
+    },
+    "northern": {
+      "municipal_taxes": 3832848,
+      "school_taxes": 3973114
+    }
+  },
+  "1994": {
+    "rural": {
+      "municipal_taxes": 109827691,
+      "school_taxes": 170214814
+    },
+    "urban": {
+      "municipal_taxes": 259811955,
+      "school_taxes": 309288967
+    },
+    "northern": {
+      "municipal_taxes": 3818247,
+      "school_taxes": 4129050
+    }
+  },
+  "1995": {
+    "rural": {
+      "municipal_taxes": 113112472,
+      "school_taxes": 177549889
+    },
+    "urban": {
+      "municipal_taxes": 263430306,
+      "school_taxes": 321116441
+    },
+    "northern": {
+      "municipal_taxes": 4149210,
+      "school_taxes": 4164003
+    }
+  },
+  "1996": {
+    "rural": {
+      "municipal_taxes": 116081116,
+      "school_taxes": 183748894
+    },
+    "urban": {
+      "municipal_taxes": 266374032,
+      "school_taxes": 325984267
+    },
+    "northern": {
+      "municipal_taxes": 4112400,
+      "school_taxes": 4799058
+    }
+  },
+  "1997": {
+    "rural": {
+      "municipal_taxes": 128298516,
+      "school_taxes": 220961495
+    },
+    "urban": {
+      "municipal_taxes": 280317254,
+      "school_taxes": 321313372
+    },
+    "northern": {
+      "municipal_taxes": 4278261,
+      "school_taxes": 5415278
+    }
+  },
+  "1998": {
+    "rural": {
+      "municipal_taxes": 134156862,
+      "school_taxes": 234210795
+    },
+    "urban": {
+      "municipal_taxes": 288286856,
+      "school_taxes": 323641151
+    },
+    "northern": {
+      "municipal_taxes": 4467919,
+      "school_taxes": 6257331
+    }
+  },
+  "1999": {
+    "rural": {
+      "municipal_taxes": 137192786,
+      "school_taxes": 242503575
+    },
+    "urban": {
+      "municipal_taxes": 294493056,
+      "school_taxes": 336946154
+    },
+    "northern": {
+      "municipal_taxes": 4385270,
+      "school_taxes": 6225099
+    }
+  },
+  "2000": {
+    "rural": {
+      "municipal_taxes": 139531827,
+      "school_taxes": 252531037
+    },
+    "urban": {
+      "municipal_taxes": 298574048,
+      "school_taxes": 343063842
+    },
+    "northern": {
+      "municipal_taxes": 4737887,
+      "school_taxes": 6610727
+    }
+  }
+}

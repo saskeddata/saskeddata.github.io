@@ -1,0 +1,354 @@
+{
+  "2011-12": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 45,
+      "Executive_Management": 1736,
+      "Central_Services": 7895,
+      "Accommodation_Services": 3806
+    },
+    "PreK_12_Education": {
+      "Operational_Support": 8928,
+      "School_Operating": 1133316,
+      "School_Operating_K12_Initiatives": 27294,
+      "School_Capital_Transfers": 47292,
+      "First_Nations_Metis_Community_Education": 4511,
+      "French_Education": 6513,
+      "Educational_Agencies": 1116
+    },
+    "Early_Learning_and_Child_Care": {
+      "Operational_Support": 4696,
+      "KidsFirst": 4549,
+      "Early_Childhood_Intervention_Program": 3800,
+      "Child_Care": 43357,
+      "Child_Care_Capital_Transfers": 1000
+    },
+    "Curriculum_and_E_Learning": {
+      "Operational_Support": 1783,
+      "Curriculum_and_Instruction": 2381,
+      "Student_Support_Services": 710
+    },
+    "Literacy": {
+      "Literacy_Office": 274,
+      "Literacy_Initiatives": 1705
+    },
+    "Provincial_Library": 14052,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1411,
+      "Teachers_Superannuation_Plan_Statutory": 145995,
+      "Teachers_Group_Life_Insurance_Statutory": 2143,
+      "Teachers_Dental_Plan": 10661,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 67483,
+      "Teachers_Extended_Health_Plan": 16957
+    }
+  },
+  "2013-14": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 49,
+      "Executive_Management": 1774,
+      "Central_Services": 11752,
+      "Accommodation_Services": 4547
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 28622,
+      "School_Operating": 1143469,
+      "K12_Initiatives": 31771,
+      "School_Capital": 96419,
+      "Educational_Agencies": 510
+    },
+    "Early_Years": {
+      "Operational_Support": 4110,
+      "KidsFirst": 4662,
+      "Early_Childhood_Intervention_Programs": 3964,
+      "Child_Care": 47617,
+      "Child_Care_Capital_Transfers": 3857
+    },
+    "Literacy": 2779,
+    "Provincial_Library": 12625,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1205,
+      "Teachers_Superannuation_Plan_Statutory": 201077,
+      "Teachers_Group_Life_Insurance_Statutory": 2169,
+      "Teachers_Dental_Plan": 11420,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 71775,
+      "Teachers_Extended_Health_Plan": 18987
+    }
+  },
+  "2014-15": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 48,
+      "Executive_Management": 1846,
+      "Central_Services": 12107,
+      "Accommodation_Services": 5550
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 29498,
+      "School_Operating": 1199976,
+      "K12_Initiatives": 34328,
+      "School_Capital": 107610,
+      "Educational_Agencies": 538
+    },
+    "Early_Years": {
+      "Operational_Support": 4104,
+      "KidsFirst": 4569,
+      "Early_Childhood_Intervention_Programs": 4004,
+      "Child_Care": 50246,
+      "Child_Care_Capital_Transfers": 1675
+    },
+    "Literacy": 2787,
+    "Provincial_Library": 12691,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1262,
+      "Teachers_Superannuation_Plan_Statutory": 215963,
+      "Teachers_Group_Life_Insurance_Statutory": 2065,
+      "Teachers_Dental_Plan": 11399,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 85051,
+      "Teachers_Extended_Health_Plan": 19495
+    }
+  },
+  "2015-16": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 48,
+      "Executive_Management": 1881,
+      "Central_Services": 11387,
+      "Accommodation_Services": 6050
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 30491,
+      "School_Operating": 1202470,
+      "K12_Initiatives": 37802,
+      "School_Capital": 255523,
+      "Educational_Agencies": 176
+    },
+    "Early_Years": {
+      "Operational_Support": 3879,
+      "KidsFirst": 4615,
+      "Early_Childhood_Intervention_Programs": 4090,
+      "Child_Care": 52062
+    },
+    "Literacy": 2603,
+    "Provincial_Library": 12792,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1201,
+      "Teachers_Superannuation_Plan_Statutory": 252538,
+      "Teachers_Group_Life_Insurance_Statutory": 2129,
+      "Teachers_Dental_Plan": 12186,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 82835,
+      "Teachers_Extended_Health_Plan": 20097
+    }
+  },
+  "2017-18": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 58,
+      "Executive_Management": 1745,
+      "Central_Services": 6755,
+      "Accommodation_Services": 4250
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 30238,
+      "School_Operating": 1296754,
+      "K12_Initiatives": 34328,
+      "School_Capital": 102082,
+      "P3_Joint_Use_Schools_Maintenance_Interest": 9438
+    },
+    "Early_Years": {
+      "Operational_Support": 3827,
+      "KidsFirst": 15528,
+      "Early_Childhood_Intervention_Programs": 4089,
+      "Child_Care": 63285
+    },
+    "Literacy": 1580,
+    "Provincial_Library": 12581,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1042,
+      "Teachers_Superannuation_Plan_Statutory": 277253,
+      "Teachers_Group_Life_Insurance_Statutory": 2162,
+      "Teachers_Dental_Plan": 12589,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 85985,
+      "Teachers_Extended_Health_Plan": 21001
+    }
+  },
+  "2018-19": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 59,
+      "Executive_Management": 1818,
+      "Central_Services": 7234,
+      "Accommodation_Services": 3933
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 25949,
+      "School_Operating": 1809140,
+      "K12_Initiatives": 34979,
+      "School_Capital": 62300,
+      "P3_Joint_Use_Schools_Maintenance_Interest": 13425
+    },
+    "Early_Years": {
+      "Operational_Support": 4114,
+      "KidsFirst": 15528,
+      "Early_Childhood_Intervention_Programs": 4089,
+      "Child_Care": 71549
+    },
+    "Literacy": 1720,
+    "Provincial_Library": 13048,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1190,
+      "Teachers_Superannuation_Plan_Statutory": 282935,
+      "Teachers_Group_Life_Insurance_Statutory": 2306,
+      "Teachers_Dental_Plan": 13034,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 86697,
+      "Teachers_Extended_Health_Plan": 20753
+    }
+  },
+  "2019-20": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 60,
+      "Executive_Management": 1660,
+      "Central_Services": 7433,
+      "Accommodation_Services": 3979
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 25328,
+      "School_Operating": 1767571,
+      "K12_Initiatives": 39619,
+      "School_Capital": 105184,
+      "P3_Joint_Use_Schools_Maintenance_Interest": 14305
+    },
+    "Early_Years": {
+      "Operational_Support": 4034,
+      "KidsFirst": 15651,
+      "Early_Childhood_Intervention_Programs": 4285,
+      "Child_Care": 71217
+    },
+    "Literacy": 1183,
+    "Provincial_Library_and_Literacy": 12977,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1223,
+      "Teachers_Superannuation_Plan_Statutory": 293985,
+      "Teachers_Group_Life_Insurance_Statutory": 2377,
+      "Teachers_Dental_Plan_Statutory": 13388,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 87437,
+      "Teachers_Extended_Health_Plan": 20840
+    }
+  },
+  "2020-21": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 58,
+      "Executive_Management": 1789,
+      "Central_Services": 8225,
+      "Accommodation_Services": 3599
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 25478,
+      "School_Operating": 1802762,
+      "K12_Initiatives": 42829,
+      "School_Capital": 121586,
+      "P3_Joint_Use_Schools_Maintenance_Interest": 13386
+    },
+    "Early_Years": {
+      "Operational_Support": 3943,
+      "KidsFirst": 16047,
+      "Early_Childhood_Intervention_Programs": 4394,
+      "Child_Care": 89986
+    },
+    "Provincial_Library_and_Literacy": 13898,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1085,
+      "Teachers_Superannuation_Plan_Statutory": 286640,
+      "Teachers_Group_Life_Insurance_Statutory": 2423,
+      "Teachers_Dental_Plan_Statutory": 12552,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 88996,
+      "Teachers_Extended_Health_Plan": 21202
+    }
+  },
+  "2021-22": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 54,
+      "Executive_Management": 1661,
+      "Central_Services": 7777,
+      "Accommodation_Services": 3730
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 25104,
+      "School_Operating": 1836905,
+      "K12_Initiatives": 41159,
+      "School_Capital": 103812,
+      "P3_Joint_Use_Schools_Maintenance_Interest": 14052
+    },
+    "Early_Years": {
+      "Operational_Support": 3959,
+      "KidsFirst": 16303,
+      "Early_Childhood_Intervention_Programs": 4464,
+      "Child_Care": 133543
+    },
+    "Provincial_Library_and_Literacy": 14431,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1157,
+      "Teachers_Superannuation_Plan_Statutory": 282219,
+      "Teachers_Group_Life_Insurance_Statutory": 2414,
+      "Teachers_Dental_Plan_Statutory": 14953,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 91942,
+      "Teachers_Extended_Health_Plan": 21807
+    }
+  },
+  "2022-23": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 56,
+      "Executive_Management": 1997,
+      "Central_Services": 8114,
+      "Accommodation_Services": 4335
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 27761,
+      "School_Operating": 1874950,
+      "K12_Initiatives": 66360,
+      "School_Capital": 152290,
+      "P3_Joint_Use_Schools_Maintenance_Interest": 14434
+    },
+    "Early_Years": {
+      "Operational_Support": 4041,
+      "KidsFirst": 16629,
+      "Early_Childhood_Intervention_Programs": 5208,
+      "Child_Care": 245992
+    },
+    "Provincial_Library_and_Literacy": 14362,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1140,
+      "Teachers_Superannuation_Plan_Statutory": 286234,
+      "Teachers_Group_Life_Insurance_Statutory": 2256,
+      "Teachers_Dental_Plan_Statutory": 15578,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 91684,
+      "Teachers_Extended_Health_Plan": 21996
+    }
+  },
+  "2023-24": {
+    "Central_Management_and_Services": {
+      "Ministers_Salary_Statutory": 57,
+      "Executive_Management": 1725,
+      "Central_Services": 15934,
+      "Accommodation_Services": 4221
+    },
+    "K_12_Education": {
+      "Achievement_and_Operational_Support": 33034,
+      "School_Operating": 1934753,
+      "School_Operating_PMR": 50000,
+      "K12_Initiatives": 42311,
+      "School_Capital": 192913,
+      "P3_Joint_Use_Schools_Maintenance_Interest": 30680,
+      "Saskatchewan_Distance_Learning_Corporation": 22018
+    },
+    "Early_Years": {
+      "Operational_Support": 4237,
+      "KidsFirst": 17129,
+      "Early_Childhood_Intervention_Programs": 5364,
+      "Child_Care": 290397
+    },
+    "Provincial_Library_and_Literacy": 14889,
+    "Teachers_Pension_and_Benefits": {
+      "Teachers_Superannuation_Commission": 1080,
+      "Teachers_Superannuation_Plan_Statutory": 301788,
+      "Teachers_Group_Life_Insurance_Statutory": 2231,
+      "Teachers_Dental_Plan_Statutory": 16095,
+      "Saskatchewan_Teachers_Retirement_Plan_Statutory": 92180,
+      "Teachers_Extended_Health_Plan": 22295
+    }
+  }
+}

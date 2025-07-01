@@ -1,0 +1,300 @@
+{
+    "2011-12": {
+        "school_based_educator_assignments": {
+            "regular_teaching": 9241.4,
+            "sss_teaching": 966.6,
+            "eal_teaching": 109.8,
+            "counselling": 136.1,
+            "teacher_librarian": 153.6,
+            "in_school_administration": 736.9,
+            "other": 151.8,
+            "total_school_based": 11496.1
+        },
+        "other_support_positions": {
+            "assistant_director": 8.0,
+            "assistant_superintendent": 6.0,
+            "consultant": 173.3,
+            "coordinator": 105.3,
+            "director_of_education_approved_supervisor": 26.2,
+            "other_leads_position": 7.0,
+            "psychologist": 60.1,
+            "speech_language_pathologists_educator": 31.5,
+            "seconded": 12.0,
+            "superintendent": 92.0,
+            "teacher_on_assignment": 57.2,
+            "adjustment": 23.5
+        },
+        "total_educator_ftes": 12098.1,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3423,
+            "non_certified_educator_counsellors": null,
+            "non_certified_educator_sl_pathologists": 99.6,
+            "non_certified_educator_psychologists": 34.1,
+            "social_workers": 94.7,
+            "physical_therapists": 0.2,
+            "occupational_therapists": 23.0,
+            "other_medical_facilitators": 21.6
+        }
+    },
+    "2012-13": {
+        "school_based_educator_assignments": {
+            "regular_teaching": 9086.5,
+            "sss_teaching": 992.2,
+            "eal_teaching": 126.2,
+            "counselling": 141.9,
+            "teacher_librarian": 158.6,
+            "in_school_administration": 740.7,
+            "other": 160.5,
+            "total_school_based": 11406.6
+        },
+        "other_support_positions": {
+            "assistant_director": 9.0,
+            "assistant_superintendent": 8.0,
+            "consultant": 192.0,
+            "coordinator": 107.2,
+            "director_of_education_approved_supervisor": 26.9,
+            "other_leads_position": 10.0,
+            "psychologist": 61.7,
+            "speech_language_pathologists_educator": 27.8,
+            "seconded": 11.0,
+            "superintendent": 94.0,
+            "teacher_on_assignment": 62.3,
+            "adjustment": -13.5
+        },
+        "total_educator_ftes": 12003.0,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3566,
+            "non_certified_educator_counsellors": 129.1,
+            "non_certified_educator_sl_pathologists": 99.0,
+            "non_certified_educator_psychologists": 21.9,
+            "social_workers": 85.0,
+            "physical_therapists": 0.5,
+            "occupational_therapists": 26.7,
+            "other_medical_facilitators": 22.7
+        }
+    },
+    "2013-14": {
+        "school_based_educator_assignments": {
+            "regular_teaching": 9168.0,
+            "sss_teaching": 1028.8,
+            "eal_teaching": 147.0,
+            "counselling": 158.1,
+            "teacher_librarian": 156.4,
+            "in_school_administration": 745.2,
+            "other": 125.7,
+            "total_school_based": 11529.2
+        },
+        "other_support_positions": {
+            "assistant_director": 7.0,
+            "assistant_superintendent": 2.0,
+            "consultant": 198.8,
+            "coordinator": 107.4,
+            "director_of_education_approved_supervisor": 26.9,
+            "other_leads_position": 11.0,
+            "psychologist": 62.3,
+            "speech_language_pathologists_educator": 26.8,
+            "seconded": 5.2,
+            "superintendent": 103.0,
+            "teacher_on_assignment": 78.6,
+            "adjustment": -11.9
+        },
+        "total_educator_ftes": 12146.2,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3601,
+            "non_certified_educator_counsellors": 86.7,
+            "non_certified_educator_sl_pathologists": 103.2,
+            "non_certified_educator_psychologists": 12.1,
+            "social_workers": 88.9,
+            "physical_therapists": 3.5,
+            "occupational_therapists": 28.4,
+            "other_medical_facilitators": 22.1
+        }
+    },
+    "2014-15": {
+        "school_based_educator_assignments": {
+            "regular_teaching": 9215.7,
+            "sss_teaching": 1069.8,
+            "eal_teaching": 159.5,
+            "counselling": 156.7,
+            "teacher_librarian": 145.3,
+            "in_school_administration": 754.0,
+            "other": 80.5,
+            "total_school_based": 11581.5
+        },
+        "other_support_positions": {
+            "assistant_director": 7.0,
+            "assistant_superintendent": 2.0,
+            "consultant": 182.0,
+            "coordinator": 108.9,
+            "director_of_education_approved_supervisor": 26.4,
+            "other_leads_position": 10.0,
+            "psychologist": 66.2,
+            "speech_language_pathologists_educator": 26.4,
+            "seconded": 12.0,
+            "superintendent": 102.0,
+            "teacher_on_assignment": 75.3,
+            "adjustment": 62.8
+        },
+        "total_educator_ftes": 12262.5,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3514,
+            "non_certified_educator_counsellors": 98.2,
+            "non_certified_educator_sl_pathologists": 117.2,
+            "non_certified_educator_psychologists": 11.5,
+            "social_workers": 90.4,
+            "physical_therapists": 0.5,
+            "occupational_therapists": 29.1,
+            "other_medical_facilitators": 21.6
+        }
+    },
+    "2015-16": {
+        "school_based_educator_assignments": {
+            "regular_teaching": 9355.7,
+            "sss_teaching": 1034.5,
+            "eal_teaching": 157.3,
+            "counselling": 143.3,
+            "teacher_librarian": 125.9,
+            "in_school_administration": 767.0,
+            "other": 67.0,
+            "total_school_based": 11650.6
+        },
+        "other_support_positions": {
+            "assistant_director": 8.0,
+            "assistant_superintendent": 4.0,
+            "consultant": 183.6,
+            "coordinator": 97.4,
+            "director_of_education_approved_supervisor": 26.7,
+            "other_leads_position": 15.0,
+            "psychologist": 65.3,
+            "speech_language_pathologists_educator": 29.4,
+            "seconded": 12.0,
+            "superintendent": 101.0,
+            "teacher_on_assignment": 60.0,
+            "adjustment": 79.8
+        },
+        "total_educator_ftes": 12332.7,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3432,
+            "non_certified_educator_counsellors": 106.6,
+            "non_certified_educator_sl_pathologists": 106.3,
+            "non_certified_educator_psychologists": 13.0,
+            "social_workers": 83.4,
+            "physical_therapists": 0.9,
+            "occupational_therapists": 31.2,
+            "other_medical_facilitators": 22.2
+        }
+    },
+    "2016-17": {
+        "school_based_educator_assignments": {
+            "regular_classroom_teaching": 9477.2,
+            "sss_teaching": 1043.2,
+            "eal_teaching": 157.0,
+            "counselling": 133.8,
+            "teacher_librarian": 114.8,
+            "in_school_administration": 768.3,
+            "other": 51.1,
+            "total_school_based": 11745.5
+        },
+        "other_support_positions": {
+            "assistant_director": 9.0,
+            "assistant_superintendent": 1.0,
+            "consultant": 158.0,
+            "coordinator": 97.6,
+            "director_of_education_approved_supervisor": 26.7,
+            "other_leads_position": 15.0,
+            "psychologist": 60.4,
+            "speech_language_pathologists_educator": 29.3,
+            "seconded": 11.0,
+            "superintendent": 101.0,
+            "teacher_on_assignment": 76.3,
+            "adjustment": 29.1
+        },
+        "total_educator_ftes": 12359.8,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3408,
+            "non_certified_educator_counsellors": 103.7,
+            "non_certified_educator_sl_pathologists": 116.9,
+            "non_certified_educator_psychologists": 13.7,
+            "social_workers": 86.0,
+            "physical_therapists": 0.8,
+            "occupational_therapists": 29.6,
+            "other_medical_facilitators": 25.7
+        }
+    },
+    "2017-18": {
+        "school_based_educator_assignments": {
+            "regular_classroom_teaching": 9367.0,
+            "distance_learning_teaching": 74.7,
+            "sss_teaching": 1037.6,
+            "eal_teaching": 145.7,
+            "counselling": 136.9,
+            "teacher_librarian": 99.1,
+            "in_school_administration": 789.8,
+            "other": null,
+            "total_school_based": 11650.8
+        },
+        "other_support_positions": {
+            "assistant_director": 9.0,
+            "consultant": 133.3,
+            "coordinator": 84.7,
+            "counsellor_educator": null,
+            "director_of_education_approved_supervisor": 26.7,
+            "other_leads_position": 10.0,
+            "psychologist": 56.8,
+            "speech_language_pathologists_educator": 26.4,
+            "seconded": 3.0,
+            "superintendent": 92.1,
+            "teacher_on_assignment": 63.1,
+            "adjustment": 15.0
+        },
+        "total_educator_ftes": 12171.0,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3383,
+            "non_certified_educator_counsellors": 99.1,
+            "non_certified_educator_sl_pathologists": 111.9,
+            "non_certified_educator_psychologists": 13.3,
+            "social_workers": 77.9,
+            "physical_therapists": 0.5,
+            "occupational_therapists": 24.7,
+            "other_medical_facilitators": 23.1
+        }
+    },
+    "2018-19": {
+        "school_based_educator_assignments": {
+            "regular_classroom_teaching": 9453.0,
+            "distance_learning_teaching": 75.5,
+            "sss_teaching": 1047.2,
+            "eal_teaching": 147.3,
+            "counselling": 114.4,
+            "teacher_librarian": 85.6,
+            "in_school_administration": 801.6,
+            "other": null,
+            "total_school_based": 11724.7
+        },
+        "other_support_positions": {
+            "assistant_director": 9.0,
+            "consultant": 136.7,
+            "coordinator": 85.6,
+            "counsellor_educator": 15.0,
+            "director_of_education_approved_supervisor": 26.8,
+            "other_leads_position": 11.7,
+            "psychologist": 56.8,
+            "speech_language_pathologists_educator": 29.9,
+            "seconded": 3.0,
+            "superintendent": 94.0,
+            "teacher_on_assignment": 70.1,
+            "adjustment": 12.8
+        },
+        "total_educator_ftes": 12276.1,
+        "non_educator_support_positions": {
+            "education_teacher_assistants": 3560,
+            "non_certified_educator_counsellors": 112.4,
+            "non_certified_educator_sl_pathologists": 102.8,
+            "non_certified_educator_psychologists": 13.9,
+            "social_workers": 83.7,
+            "physical_therapists": 0.0,
+            "occupational_therapists": 23.9,
+            "other_medical_facilitators": 22.3
+        }
+    }
+}
