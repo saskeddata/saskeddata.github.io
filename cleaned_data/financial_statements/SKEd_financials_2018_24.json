@@ -1,0 +1,345 @@
+{
+  "ministry": "Education",
+  "province": "Saskatchewan",
+  "currency": "CAD (thousands)",
+  "years_covered": "2018-19 to 2023-24",
+  "data": {
+    "Central Management and Services (ED01)": {
+      "Minister's Salary (Statutory)": {
+        "2018-19": 59,
+        "2019-20": 60,
+        "2020-21": 58,
+        "2021-22": 54,
+        "2022-23": 56,
+        "2023-24": 57
+      },
+      "Executive Management": {
+        "2018-19": 1817,
+        "2019-20": 1660,
+        "2020-21": 1789,
+        "2021-22": 1661,
+        "2022-23": 1998,
+        "2023-24": 1725
+      },
+      "Central Services": {
+        "2018-19": 7234,
+        "2019-20": 7433,
+        "2020-21": 8225,
+        "2021-22": 7777,
+        "2022-23": 8114,
+        "2023-24": 15934
+      },
+      "Accommodation Services": {
+        "2018-19": 3933,
+        "2019-20": 3979,
+        "2020-21": 3599,
+        "2021-22": 3730,
+        "2022-23": 4335,
+        "2023-24": 4222
+      },
+      "Subvote Total": {
+        "2018-19": 13043,
+        "2019-20": 13132,
+        "2020-21": 13671,
+        "2021-22": 13222,
+        "2022-23": 14503,
+        "2023-24": 21938
+      }
+    },
+    "K-12 Education (ED03)": {
+      "Achievement and Operational Support": {
+        "2018-19": 25950,
+        "2019-20": 25328,
+        "2020-21": 25478,
+        "2021-22": 25103,
+        "2022-23": 27761,
+        "2023-24": 33034
+      },
+      "School Operating": {
+        "2018-19": 1809140,
+        "2019-20": 1767571,
+        "2020-21": 1802762,
+        "2021-22": 1836911,
+        "2022-23": 1874850,
+        "2023-24": 1934753
+      },
+      "School Operating - Preventative Maintenance and Renewal": {
+        "2018-19": null,
+        "2019-20": null,
+        "2020-21": null,
+        "2021-22": null,
+        "2022-23": null,
+        "2023-24": 50000
+      },
+      "Saskatchewan Distance Learning Corporation": {
+        "2018-19": null,
+        "2019-20": null,
+        "2020-21": null,
+        "2021-22": null,
+        "2022-23": null,
+        "2023-24": 22018
+      },
+      "K-12 Initiatives": {
+        "2018-19": 34979,
+        "2019-20": 39619,
+        "2020-21": 38394,
+        "2021-22": 41153,
+        "2022-23": 66359,
+        "2023-24": 42311
+      },
+      "School Capital": {
+        "2018-19": 62300,
+        "2019-20": 105184,
+        "2020-21": 121586,
+        "2021-22": 103813,
+        "2022-23": 152291,
+        "2023-24": 192913
+      },
+      "P3 Joint-use Schools - Maintenance and Interest/Financing Charges": {
+        "2018-19": 13425,
+        "2019-20": 14305,
+        "2020-21": 13386,
+        "2021-22": 14052,
+        "2022-23": 14434,
+        "2023-24": 17180
+      },
+      "Emergency Pandemic Supplies for K-12 Education": {
+        "2018-19": null,
+        "2019-20": null,
+        "2020-21": 4435,
+        "2021-22": null,
+        "2022-23": null,
+        "2023-24": null
+      },
+      "Subvote Total": {
+        "2018-19": 1945794,
+        "2019-20": 1952007,
+        "2020-21": 2006041,
+        "2021-22": 2021032,
+        "2022-23": 2135695,
+        "2023-24": 2292209
+      }
+    },
+    "Early Years (ED08)": {
+      "Operational Support": {
+        "2018-19": 4114,
+        "2019-20": 4034,
+        "2020-21": 3943,
+        "2021-22": 3959,
+        "2022-23": 4041,
+        "2023-24": 4237
+      },
+      "KidsFirst": {
+        "2018-19": 15528,
+        "2019-20": 15651,
+        "2020-21": 16047,
+        "2021-22": 16303,
+        "2022-23": 16629,
+        "2023-24": 17129
+      },
+      "Early Childhood Intervention Programs": {
+        "2018-19": 4089,
+        "2019-20": 4285,
+        "2020-21": 4394,
+        "2021-22": 4464,
+        "2022-23": 5208,
+        "2023-24": 5364
+      },
+      "Child Care": {
+        "2018-19": 71548,
+        "2019-20": 71217,
+        "2020-21": 89987,
+        "2021-22": 133543,
+        "2022-23": 245992,
+        "2023-24": 290398
+      },
+      "Subvote Total": {
+        "2018-19": 95279,
+        "2019-20": 95187,
+        "2020-21": 114371,
+        "2021-22": 158269,
+        "2022-23": 271870,
+        "2023-24": 317128
+      }
+    },
+    "Teachers' Pensions and Benefits (ED04)": {
+      "Teachers' Superannuation Commission": {
+        "2018-19": 1191,
+        "2019-20": 1223,
+        "2020-21": 1085,
+        "2021-22": 1157,
+        "2022-23": 1140,
+        "2023-24": 1081
+      },
+      "Teachers' Superannuation Plan (Statutory)": {
+        "2018-19": 282935,
+        "2019-20": 293985,
+        "2020-21": 286640,
+        "2021-22": 282219,
+        "2022-23": 286234,
+        "2023-24": 301788
+      },
+      "Teachers' Group Life Insurance (Statutory)": {
+        "2018-19": 2306,
+        "2019-20": 2377,
+        "2020-21": 2423,
+        "2021-22": 2414,
+        "2022-23": 2255,
+        "2023-24": 2231
+      },
+      "Teachers' Dental Plan (Statutory)": {
+        "2018-19": 13034,
+        "2019-20": 13388,
+        "2020-21": 12552,
+        "2021-22": 14953,
+        "2022-23": 15578,
+        "2023-24": 16095
+      },
+      "Saskatchewan Teachers' Retirement Plan (Statutory)": {
+        "2018-19": 86697,
+        "2019-20": 87437,
+        "2020-21": 88995,
+        "2021-22": 91942,
+        "2022-23": 91684,
+        "2023-24": 92180
+      },
+      "Teachers' Extended Health Plan": {
+        "2018-19": 20753,
+        "2019-20": 20840,
+        "2020-21": 21202,
+        "2021-22": 21807,
+        "2022-23": 21997,
+        "2023-24": 22295
+      },
+      "Subvote Total": {
+        "2018-19": 406916,
+        "2019-20": 419250,
+        "2020-21": 412897,
+        "2021-22": 414492,
+        "2022-23": 418888,
+        "2023-24": 435670
+      }
+    },
+    "Provincial Library and Literacy": {
+      "Literacy (ED17)": {
+        "2018-19": 1720,
+        "2019-20": 1183,
+        "2020-21": null,
+        "2021-22": null,
+        "2022-23": null,
+        "2023-24": null
+      },
+      "Provincial Library (ED15)": {
+        "2018-19": 13048,
+        "2019-20": 12977,
+        "2020-21": null,
+        "2021-22": null,
+        "2022-23": null,
+        "2023-24": null
+      },
+      "Provincial Library and Literacy (ED15) - Operational Support": {
+        "2018-19": null,
+        "2019-20": null,
+        "2020-21": 1859,
+        "2021-22": 1901,
+        "2022-23": 1867,
+        "2023-24": 1893
+      },
+      "Libraries": {
+        "2018-19": null,
+        "2019-20": null,
+        "2020-21": 11085,
+        "2021-22": 11420,
+        "2022-23": 11415,
+        "2023-24": 11853
+      },
+      "Literacy": {
+        "2018-19": null,
+        "2019-20": null,
+        "2020-21": 953,
+        "2021-22": 1110,
+        "2022-23": 1080,
+        "2023-24": 1142
+      },
+      "Subvote Total": {
+        "2018-19": 14768,
+        "2019-20": 14160,
+        "2020-21": 13897,
+        "2021-22": 14431,
+        "2022-23": 14362,
+        "2023-24": 14888
+      }
+    },
+    "Non-Appropriated Expense Adjustment": {
+      "Amortization - Office and Information Technology": {
+        "2018-19": 389,
+        "2019-20": null,
+        "2020-21": null,
+        "2021-22": null,
+        "2022-23": null,
+        "2023-24": null
+      },
+      "Amortization of Capital Assets": {
+        "2018-19": null,
+        "2019-20": 389,
+        "2020-21": 389,
+        "2021-22": 389,
+        "2022-23": null,
+        "2023-24": null
+      },
+      "Subvote Total": {
+        "2018-19": 389,
+        "2019-20": 389,
+        "2020-21": 389,
+        "2021-22": 389,
+        "2022-23": null,
+        "2023-24": null
+      }
+    },
+    "Ministry Totals": {
+      "Total Expenditures": {
+        "2018-19": 2476189,
+        "2019-20": 2494125,
+        "2020-21": 2561266,
+        "2021-22": 2621835,
+        "2022-23": 2855318,
+        "2023-24": 3081833
+      }
+    }
+  },
+  "notes": {
+    "communication_and_travel_expenses": {
+      "2018-19": {
+        "communication": 103,
+        "travel": 498
+      },
+      "2019-20": {
+        "communication": 81,
+        "travel": 460
+      },
+      "2020-21": {
+        "communication": 101,
+        "travel": 140
+      },
+      "2021-22": {
+        "communication": 99,
+        "travel": 178
+      },
+      "2022-23": {
+        "communication": 311,
+        "travel": 366
+      },
+      "2023-24": {
+        "communication": 135,
+        "travel": 501
+      }
+    },
+    "organizational_changes": [
+      "Literacy and Provincial Library were reorganized in 2020-21 from separate programs (ED17 and ED15) into a combined Provincial Library and Literacy program (ED15)",
+      "Emergency Pandemic Supplies for K-12 Education was a one-time expenditure in 2020-21",
+      "Child Care spending increased significantly from 2020-21 onwards, more than doubling by 2022-23 and continuing to grow in 2023-24",
+      "New programs added in 2023-24: School Operating - Preventative Maintenance and Renewal ($50M) and Saskatchewan Distance Learning Corporation ($22M)",
+      "Central Services spending nearly doubled in 2023-24, increasing from $8.1M to $15.9M"
+    ]
+  }
+}
